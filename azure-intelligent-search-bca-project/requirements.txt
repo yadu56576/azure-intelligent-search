@@ -1,0 +1,5 @@
+flask
+azure-search-documents
+azure-storage-blob
+openai
+python-dotenv
